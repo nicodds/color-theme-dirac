@@ -1,0 +1,19 @@
+h1. Color Theme Dirac
+
+p. A pastel color theme for GNU Emacs, somewath inspired by "color-theme-galois":http://tuxlife.altervista.org/wordpress/?p=560 .
+
+h2. Usage
+
+p. After cloning the repository with %{font-family: fixed; color: blue; background: "light gray"}git clone git://github.com/nicodds/color-theme-dirac.git%, you could use the theme by writing these lines of elisp in your %{font-family: fixed; color: blue; background: "light gray"}~/.emacs% file:
+
+p{font-family: fixed; color: blue; background: "light gray"}.(require 'color-theme)<br />(load-file "~/path_chosen/color-theme-dirac/color-theme-dirac.el")<br />(color-theme-dirac)
+
+h2. License
+
+p. Copyright (C) 2010 Domenico Delle Side
+
+p. This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+p. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+p. You should have received a copy of the GNU General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.
