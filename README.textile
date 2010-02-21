@@ -4,9 +4,13 @@ p. A pastel color theme for GNU Emacs, somewath inspired by "color-theme-galois"
 
 h2. Usage
 
-p. After cloning the repository with %{font-family: fixed; color: blue; background: "light gray"}git clone git://github.com/nicodds/color-theme-dirac.git%, you could use the theme by writing these lines of elisp in your %{font-family: fixed; color: blue; background: "light gray"}~/.emacs% file:
+p. After cloning the repository with <code>git clone git://github.com/nicodds/color-theme-dirac.git</code>, you could use the theme by writing these lines of elisp in your <code>~/.emacs</code> file:
 
-p{font-family: fixed; color: blue; background: "light gray"}.(require 'color-theme)<br />(load-file "~/path_chosen/color-theme-dirac/color-theme-dirac.el")<br />(color-theme-dirac)
+<pre>
+(require 'color-theme)
+(load-file "~/path_chosen/color-theme-dirac/color-theme-dirac.el")
+(color-theme-dirac)
+</pre>
 
 h2. License
 
