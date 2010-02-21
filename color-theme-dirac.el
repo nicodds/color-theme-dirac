@@ -48,7 +48,6 @@ inspired by color-theme-galois."
      (font-lock-warning-face ((t (:bold t :foreground "blue"))))
 
      ;; LaTeX faces
-     (font-latex-math-face ((t (:foreground "#FFB774"))))
      (font-latex-math-face ((t (:foreground "#92E683"))))
      (font-latex-string-face ((t (:foreground "#92E683"))))
      (font-latex-italic-face ((t (:foreground "#92E683"))))
